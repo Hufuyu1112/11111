@@ -1,0 +1,12 @@
+11
+drug_drug	0
+drug_protein	1
+drug_disease	2
+drug_se	3
+protein_action	4
+drug_protein_disease	5
+drug_protein_drug	6
+drug_protein_action	7
+protein-protein	8
+protein-disease	9
+protein-drug	10
